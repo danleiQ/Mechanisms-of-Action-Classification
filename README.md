@@ -1,9 +1,8 @@
 # Mechanisms-of-Action-prediction
 Multi-Label Classification
 
-# Introduction:
 
-This project is a Kaggle Competition for Mechanisms of Action (MoA) Prediction.This is a multi-label classification task. Drugs can have multiple MoA annotations which describe binary responses from different cell types in different ways. 
+This project is based on the Kaggle Competition- Mechanisms of Action (MoA) Prediction,with the goal to “classify drugs based on their biological activity”. This is a multi-label classification task. Drugs can have multiple MoA annotations which describe binary responses from different cell types in different ways. 
 
 You can find the homepage and datasets of the competition from the following link:
 https://www.kaggle.com/c/lish-moa/overview
