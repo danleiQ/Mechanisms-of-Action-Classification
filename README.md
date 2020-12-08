@@ -42,4 +42,4 @@ Optuna: https://optuna.readthedocs.io/en/v2.1.0/reference/generated/optuna.visua
 [Transfer Learning]:
 
 https://www.kaggle.com/chriscc/kubi-pytorch-moa-transfer
-
+https://www.kaggle.com/thehemen/pytorch-transfer-learning-with-k-folds-by-drug-ids
