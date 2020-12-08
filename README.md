@@ -1,4 +1,4 @@
-# Mechanisms-of-Action-Classification
+# Mechanisms of Action Classification
 
 
 This repo is based on the Kaggle Competition- Mechanisms of Action (MoA) Prediction. The goal of the competition is to “classify drugs based on their biological activity”. This is a multi-label classification task. Drugs can have multiple MoA annotations which describe binary responses from different cell types in different ways. 
@@ -30,16 +30,36 @@ TabNet:
 - Tensorflow 2.0 Implementation: https://www.kaggle.com/marcusgawronsky/tabnet-in-tensorflow-2-0
  
 - Public Notebook:https://www.kaggle.com/marcusgawronsky/tabnet-in-tensorflow-2-0
-
+-----------------
 ### Feature Engineering:
 
-Permutation Importance:
+#### Permutation Importance:
 
 - Introduction:https://www.kaggle.com/dansbecker/permutation-importance
 
 - eli5 implementation: https://eli5.readthedocs.io/en/latest/blackbox/permutation_importance.html
 
 - sklearn implementation: https://scikit-learn.org/stable/modules/permutation_importance.html
+
+#### K-means:
+- https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1
+
+- https://www.kaggle.com/yerramvarun/deciding-clusters-in-kmeans-silhouette-coeff
+
+- https://towardsdatascience.com/silhouette-coefficient-validating-clustering-techniques-e976bb81d10c
+
+#### PCA 
+- https://www.mikulskibartosz.name/pca-how-to-choose-the-number-of-components/
+
+- https://www.kaggle.com/kushal1506/deciding-n-components-in-pca
+
+#### T-test
+
+- https://www.kaggle.com/demetrypascal/t-test-pca-rfe-logistic-regression#Select-only-important
+
+#### Adversarial Validation
+
+- https://towardsdatascience.com/adversarial-validation-ca69303543cd
 
 ### Hyperparameters Tuning:
 
@@ -48,32 +68,13 @@ Optuna:
 - Tutorial: https://www.kaggle.com/fanvacoolt/tutorial-on-hyperopt
 
 - Optuna: https://optuna.readthedocs.io/en/v2.1.0/reference/generated/optuna.visualization.plot_intermediate_values.html
-
+-----------------
 ### Transfer Learning:
 
 -kaggle notebook:https://www.kaggle.com/chriscc/kubi-pytorch-moa-transfer
                
                  https://www.kaggle.com/thehemen/pytorch-transfer-learning-with-k-folds-by-drug-ids
 
-### K-means:
-https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1
-
-https://www.kaggle.com/yerramvarun/deciding-clusters-in-kmeans-silhouette-coeff
-
-https://towardsdatascience.com/silhouette-coefficient-validating-clustering-techniques-e976bb81d10c
-
-### PCA 
-https://www.mikulskibartosz.name/pca-how-to-choose-the-number-of-components/
-
-https://www.kaggle.com/kushal1506/deciding-n-components-in-pca
-
-### T-test
-
-https://www.kaggle.com/demetrypascal/t-test-pca-rfe-logistic-regression#Select-only-important
-
-#### Adversarial Validation
-
-https://towardsdatascience.com/adversarial-validation-ca69303543cd
 
 #### Label Smoothing
 
