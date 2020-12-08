@@ -21,7 +21,7 @@ Here are some resources I've been learning from:
 
 ### Model Achitecture:
 
-### TabNet:
+#### TabNet:
 
 - Paper: https://arxiv.org/abs/1908.07442
 
@@ -31,19 +31,18 @@ Here are some resources I've been learning from:
  
 - Public Notebook:https://www.kaggle.com/marcusgawronsky/tabnet-in-tensorflow-2-0
 
-### Transfer Learning:
+#### Transfer Learning:
 
--kaggle notebook:https://www.kaggle.com/chriscc/kubi-pytorch-moa-transfer
-               
-                 https://www.kaggle.com/thehemen/pytorch-transfer-learning-with-k-folds-by-drug-ids
+- kaggle notebook:https://www.kaggle.com/chriscc/kubi-pytorch-moa-transfer
+               - https://www.kaggle.com/thehemen/pytorch-transfer-learning-with-k-folds-by-drug-ids
                  
                  
-### ResNet-like NN
+#### ResNet-like NN
 - https://www.kaggle.com/demetrypascal/2heads-deep-resnets-pipeline-smoothing
 - https://www.kaggle.com/rahulsd91/moa-multi-input-resnet-model
 
 -----------------
-### Feature Engineering:
+### Feature Importance:
 
 #### Permutation Importance:
 
@@ -52,6 +51,16 @@ Here are some resources I've been learning from:
 - eli5 implementation: https://eli5.readthedocs.io/en/latest/blackbox/permutation_importance.html
 
 - sklearn implementation: https://scikit-learn.org/stable/modules/permutation_importance.html
+
+#### T-test
+
+- https://www.kaggle.com/demetrypascal/t-test-pca-rfe-logistic-regression#Select-only-important
+
+#### Adversarial Validation
+
+- https://towardsdatascience.com/adversarial-validation-ca69303543cd
+
+### Feature Engineering:
 
 #### K-means:
 - https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1
@@ -65,13 +74,6 @@ Here are some resources I've been learning from:
 
 - https://www.kaggle.com/kushal1506/deciding-n-components-in-pca
 
-#### T-test
-
-- https://www.kaggle.com/demetrypascal/t-test-pca-rfe-logistic-regression#Select-only-important
-
-#### Adversarial Validation
-
-- https://towardsdatascience.com/adversarial-validation-ca69303543cd
 
 -----------------
 ### Hyperparameters Tuning:
