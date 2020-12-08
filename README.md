@@ -18,6 +18,8 @@ or you can install using pip by running: pip install pytorch-tabnet
 #### 2-Phase NN with Transfer Learning- Pytorch
 
 #### 2-Head ResNet-like NN- Tensorflow
+# Model Architecture
+![image](https://github.com/danleiQ/Mechanisms-of-Action-Classification/blob/master/Presentation/model%20diagram.jpg)
 
 # Result
 | Single Model | Seeds | K-folds | Cross Validation without Drug_id | Cross Validation with Drug_id | Public Score | Private Score | 
