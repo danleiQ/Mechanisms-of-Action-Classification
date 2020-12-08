@@ -42,4 +42,30 @@ Optuna: https://optuna.readthedocs.io/en/v2.1.0/reference/generated/optuna.visua
 [Transfer Learning]:
 
 https://www.kaggle.com/chriscc/kubi-pytorch-moa-transfer
+
 https://www.kaggle.com/thehemen/pytorch-transfer-learning-with-k-folds-by-drug-ids
+
+K-means:
+https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1
+
+https://www.kaggle.com/yerramvarun/deciding-clusters-in-kmeans-silhouette-coeff
+
+https://towardsdatascience.com/silhouette-coefficient-validating-clustering-techniques-e976bb81d10c
+
+PCA 
+https://www.mikulskibartosz.name/pca-how-to-choose-the-number-of-components/
+
+https://www.kaggle.com/kushal1506/deciding-n-components-in-pca
+
+T-test
+
+https://www.kaggle.com/demetrypascal/t-test-pca-rfe-logistic-regression#Select-only-important
+
+Adversarial Validation
+
+https://towardsdatascience.com/adversarial-validation-ca69303543cd
+
+Label Smoothing
+
+https://leimao.github.io/blog/Label-Smoothing
+
