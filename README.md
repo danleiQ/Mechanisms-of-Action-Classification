@@ -10,6 +10,7 @@ https://www.kaggle.com/c/lish-moa/overview
 
 # Result
 | Single Model | Seeds | K-folds | Cross Validation without Drug_id | Cross Validation with Drug_id | Public Score | Private Score | 
+| ----- | ----- | ----- | ----- | ----- | ----- |  ----- | 
 | Tabnet | 1 |10 | 0.016717 |  |0.01841| 0.01632 |
 | ----- | ----- | ----- | ----- | ----- | ----- |  ----- | 
 | 2-Phase NN With Transfer Learning | 7 | 7 | |  0.01563 |0.01833| 0.01623 |
