@@ -7,6 +7,8 @@ You can find the homepage and datasets of the competition from the following lin
 https://www.kaggle.com/c/lish-moa/overview
 
 # Installation
+### Pytorch Tabnet
+You can install using pip by running: pip install pytorch-tabnet
 
 # Result
 | Single Model | Seeds | K-folds | Cross Validation without Drug_id | Cross Validation with Drug_id | Public Score | Private Score | 
