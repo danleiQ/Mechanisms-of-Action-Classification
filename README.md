@@ -7,11 +7,11 @@ You can find the homepage and datasets of the competition from the following lin
 https://www.kaggle.com/c/lish-moa/overview
 
 # Installation
-### Tabnet -Pytorch
+#### Tabnet -Pytorch
 You can install using pip by running: pip install pytorch-tabnet
-### 2-Phase NN with Transfer Learning- Pytorch
+#### 2-Phase NN with Transfer Learning- Pytorch
 
-### 2-Head ResNet-like NN- Tensorflow
+#### 2-Head ResNet-like NN- Tensorflow
 
 # Result
 | Single Model | Seeds | K-folds | Cross Validation without Drug_id | Cross Validation with Drug_id | Public Score | Private Score | 
