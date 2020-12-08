@@ -21,7 +21,7 @@ Here are some resources I've been learning from:
 
 ### Model Achitecture:
 
-TabNet:
+### TabNet:
 
 - Paper: https://arxiv.org/abs/1908.07442
 
@@ -30,6 +30,18 @@ TabNet:
 - Tensorflow 2.0 Implementation: https://www.kaggle.com/marcusgawronsky/tabnet-in-tensorflow-2-0
  
 - Public Notebook:https://www.kaggle.com/marcusgawronsky/tabnet-in-tensorflow-2-0
+
+### Transfer Learning:
+
+-kaggle notebook:https://www.kaggle.com/chriscc/kubi-pytorch-moa-transfer
+               
+                 https://www.kaggle.com/thehemen/pytorch-transfer-learning-with-k-folds-by-drug-ids
+                 
+                 
+### ResNet-like NN
+- https://www.kaggle.com/demetrypascal/2heads-deep-resnets-pipeline-smoothing
+- https://www.kaggle.com/rahulsd91/moa-multi-input-resnet-model
+
 -----------------
 ### Feature Engineering:
 
@@ -61,6 +73,7 @@ TabNet:
 
 - https://towardsdatascience.com/adversarial-validation-ca69303543cd
 
+-----------------
 ### Hyperparameters Tuning:
 
 Optuna: 
@@ -68,15 +81,9 @@ Optuna:
 - Tutorial: https://www.kaggle.com/fanvacoolt/tutorial-on-hyperopt
 
 - Optuna: https://optuna.readthedocs.io/en/v2.1.0/reference/generated/optuna.visualization.plot_intermediate_values.html
+
 -----------------
-### Transfer Learning:
-
--kaggle notebook:https://www.kaggle.com/chriscc/kubi-pytorch-moa-transfer
-               
-                 https://www.kaggle.com/thehemen/pytorch-transfer-learning-with-k-folds-by-drug-ids
-
-
-#### Label Smoothing
+### Label Smoothing
 
 https://leimao.github.io/blog/Label-Smoothing
 
