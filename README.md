@@ -20,7 +20,7 @@ Here are some resources I've been learning from:
 
 [Model Achitecture]:
 
-##TabNet:
+## TabNet:
 
 Paper: https://arxiv.org/abs/1908.07442
 
@@ -30,7 +30,7 @@ Tensorflow 2.0 Implementation: https://www.kaggle.com/marcusgawronsky/tabnet-in-
  
 Public Notebook:https://www.kaggle.com/marcusgawronsky/tabnet-in-tensorflow-2-0
 
-####[Feature Engineering]:
+#### [Feature Engineering]:
 
 Permutation Importance:
 
