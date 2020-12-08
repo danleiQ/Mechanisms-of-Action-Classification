@@ -8,6 +8,16 @@ This project is a Kaggle Competition for Mechanisms of Action (MoA) Prediction.T
 You can find the homepage and datasets of the competition from the following link:
 https://www.kaggle.com/c/lish-moa/overview
 
+# Result
+|Single Model|Seeds	K-folds	Cross Validation without Drug_id	Cross Validation with Drug_id	Public
+----- 
+Score	Private 
+Score
+Tabnet	1	10	0.016717		0.01841	0.01632
+2-Phase NN With Transfer Learning	7	7		0.01563	0.01833	0.01623
+2-Heads Resnet NN	7	10	0.01656		0.01850	0.01635
+Ensemble with average weights					0.01824	0.01609
+
 
 # References
 Here are some resources I've been learning from:
