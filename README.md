@@ -6,6 +6,7 @@ This repo is based on the Kaggle Competition- Mechanisms of Action (MoA) Predict
 You can find the homepage and datasets of the competition from the following link:
 https://www.kaggle.com/c/lish-moa/overview
 
+# Installation
 
 # Result
 | Single Model | Seeds | K-folds | Cross Validation without Drug_id | Cross Validation with Drug_id | Public Score | Private Score | 
@@ -20,15 +21,15 @@ Here are some resources I've been learning from:
 
 ### Model Achitecture:
 
-- TabNet:
+TabNet:
 
-Paper: https://arxiv.org/abs/1908.07442
+- Paper: https://arxiv.org/abs/1908.07442
 
-Pytorch Implementation: https://github.com/dreamquark-ai/tabnet
+- Pytorch Implementation: https://github.com/dreamquark-ai/tabnet
 
-Tensorflow 2.0 Implementation: https://www.kaggle.com/marcusgawronsky/tabnet-in-tensorflow-2-0
+- Tensorflow 2.0 Implementation: https://www.kaggle.com/marcusgawronsky/tabnet-in-tensorflow-2-0
  
-Public Notebook:https://www.kaggle.com/marcusgawronsky/tabnet-in-tensorflow-2-0
+- Public Notebook:https://www.kaggle.com/marcusgawronsky/tabnet-in-tensorflow-2-0
 
 #### [Feature Engineering]:
 
