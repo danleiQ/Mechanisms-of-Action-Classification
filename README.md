@@ -9,9 +9,9 @@ You can find the homepage and datasets of the competition from the following lin
 https://www.kaggle.com/c/lish-moa/overview
 
 # Result
-| Single Model | Seeds | K-folds | Cross Validation without Drug_id |Public Score | Private Score | 
-| ----- | ----- | 
-| Tabnet | 1 |10 | 0.016717 |  |0.01841| 0.01632 |
+| Single Model | Seeds | K-folds | Cross Validation without Drug_id | Public Score | Private Score | 
+| ----- | ----- | ----- | ----- | ----- | ----- | 
+| Tabnet | 1 |10 | 0.016717 | 2 |0.01841| 0.01632 |
 
 
 # References
