@@ -3,7 +3,7 @@
 
 This repo is intended to share the solutions of the Kaggle Competition- Mechanisms of Action (MoA) Prediction. The goal of the competition is to “classify drugs based on their biological activity”. This is a multi-label classification task. Drugs can have multiple MoA annotations which describe binary responses from different cell types in different ways. 
 
-You can find the homepage and datasets of the competition from the following link:
+You can download datasets of the competition from the following link:
 https://www.kaggle.com/c/lish-moa/overview
 
 # Installation
