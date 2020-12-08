@@ -8,7 +8,13 @@ https://www.kaggle.com/c/lish-moa/overview
 
 # Installation
 #### Tabnet -Pytorch
-You can install using pip by running: pip install pytorch-tabnet
+[![CircleCI](https://circleci.com/gh/dreamquark-ai/tabnet.svg?style=svg)](https://circleci.com/gh/dreamquark-ai/tabnet)
+
+[![PyPI version](https://badge.fury.io/py/pytorch-tabnet.svg)](https://badge.fury.io/py/pytorch-tabnet)
+
+![PyPI - Downloads](https://img.shields.io/pypi/dm/pytorch-tabnet)
+
+or you can install using pip by running: pip install pytorch-tabnet
 #### 2-Phase NN with Transfer Learning- Pytorch
 
 #### 2-Head ResNet-like NN- Tensorflow
