@@ -31,51 +31,51 @@ TabNet:
  
 - Public Notebook:https://www.kaggle.com/marcusgawronsky/tabnet-in-tensorflow-2-0
 
-#### [Feature Engineering]:
+### Feature Engineering:
 
 Permutation Importance:
 
-Introduction:https://www.kaggle.com/dansbecker/permutation-importance
+- Introduction:https://www.kaggle.com/dansbecker/permutation-importance
 
-eli5 implementation: https://eli5.readthedocs.io/en/latest/blackbox/permutation_importance.html
+- eli5 implementation: https://eli5.readthedocs.io/en/latest/blackbox/permutation_importance.html
 
-sklearn implementation: https://scikit-learn.org/stable/modules/permutation_importance.html
+- sklearn implementation: https://scikit-learn.org/stable/modules/permutation_importance.html
 
-[Hyperparameters Tuning]:
+### Hyperparameters Tuning:
 
 Optuna: 
 
-Tutorial: https://www.kaggle.com/fanvacoolt/tutorial-on-hyperopt
+- Tutorial: https://www.kaggle.com/fanvacoolt/tutorial-on-hyperopt
 
-Optuna: https://optuna.readthedocs.io/en/v2.1.0/reference/generated/optuna.visualization.plot_intermediate_values.html
+- Optuna: https://optuna.readthedocs.io/en/v2.1.0/reference/generated/optuna.visualization.plot_intermediate_values.html
 
-[Transfer Learning]:
+### Transfer Learning:
 
-https://www.kaggle.com/chriscc/kubi-pytorch-moa-transfer
+-kaggle notebook:https://www.kaggle.com/chriscc/kubi-pytorch-moa-transfer
+               
+                 https://www.kaggle.com/thehemen/pytorch-transfer-learning-with-k-folds-by-drug-ids
 
-https://www.kaggle.com/thehemen/pytorch-transfer-learning-with-k-folds-by-drug-ids
-
-K-means:
+### K-means:
 https://towardsdatascience.com/understanding-k-means-clustering-in-machine-learning-6a6e67336aa1
 
 https://www.kaggle.com/yerramvarun/deciding-clusters-in-kmeans-silhouette-coeff
 
 https://towardsdatascience.com/silhouette-coefficient-validating-clustering-techniques-e976bb81d10c
 
-PCA 
+### PCA 
 https://www.mikulskibartosz.name/pca-how-to-choose-the-number-of-components/
 
 https://www.kaggle.com/kushal1506/deciding-n-components-in-pca
 
-T-test
+### T-test
 
 https://www.kaggle.com/demetrypascal/t-test-pca-rfe-logistic-regression#Select-only-important
 
-Adversarial Validation
+#### Adversarial Validation
 
 https://towardsdatascience.com/adversarial-validation-ca69303543cd
 
-Label Smoothing
+#### Label Smoothing
 
 https://leimao.github.io/blog/Label-Smoothing
 
