@@ -18,9 +18,9 @@ https://www.kaggle.com/c/lish-moa/overview
 # References
 Here are some resources I've been learning from:
 
-[Model Achitecture]:
+### Model Achitecture:
 
-## TabNet:
+- TabNet:
 
 Paper: https://arxiv.org/abs/1908.07442
 
